@@ -65,3 +65,9 @@ defaults:
       type: publications
     values:
       layout: single
+
+include:
+  - _pages
+  - files
+  - images
+  - _publications
